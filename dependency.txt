@@ -8,8 +8,8 @@
    "name":"gokul",
    "rollNumber":1,
    "gender":"male",
-   "age":"23",
-   "course":"csc",
+   "age":"27",
+   "course":"IT",
    "attendance":"present"
 }
 
